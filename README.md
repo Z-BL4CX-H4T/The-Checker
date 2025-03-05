@@ -1,5 +1,7 @@
 # The-Checker
 
+
+
 # The Checker Tools New ✅
 
 # Menu:
@@ -36,5 +38,12 @@ Example:
 ```
 192.168.1.1:8080
 203.123.45.67:3128:user:pass
+```
+
+# Installation
+```
+pkg update && pkg install python -y
+pip install requests colorama pysocks
+https://github.com/Z-BL4CX-H4T/The-Checker.git
 ```
 Create By: Mr.P3T0K
